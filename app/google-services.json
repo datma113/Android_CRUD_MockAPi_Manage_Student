@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881875491553",
+    "project_id": "android-manage-student",
+    "storage_bucket": "android-manage-student.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881875491553:android:aa0d76cac40c39042af5a0",
+        "android_client_info": {
+          "package_name": "com.example.android_crud_login_mockapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881875491553-6962blhmb2outb0ossjs8166aar7i9ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjXXNcU-AR1K69rAyEm0cDH2SZ5O-BYqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881875491553-6962blhmb2outb0ossjs8166aar7i9ce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
